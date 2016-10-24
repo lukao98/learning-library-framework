@@ -13,3 +13,22 @@ Biblioteca é uma coleção de funções/rotinas que facilitam o desenvolvimento
 - Framework - Oferece um modelo.  
 
 Para saber é só usar a regra IoC (Inversion of control). Quer dizer que: Usando a biblioteca, você a chama; usando o framework, ele chama por você.
+
+#O que é uma API?
+
+API é uma série de ferramentas, protocolos e metodos de programação, em outras palavras, uma interface com ferramentas para programação de aplicações. Ela é o livro de regras que estabelece o padrão de comunicação que pode ser usada na interação, exemplo: Facebook, Twitter, YouTube... possuem suas regras, se eu quiser desenvolver algo que use dados dos mesmos, é necessário segui-las.
+
+###Na prática
+
+- APIs entregam funcionalidades a websites;  
+- APIs estão por trás das aplicações/softwares online;  
+- APIs suportam as aplicações móveis;  
+- APIs conectam objetos físicos, através dos conceitos extremamente interessantes de Internet das Coisas;  
+Entre outras...  
+
+
+#Toolkits e SDKs  
+
+- Toolkits: Funcionam de forma mais livre que um framework, são como bibliotecas funcionando em conjunto onde você chama o que precisa;  
+
+- SDKs: SDK ou Software Development Kit oferece tudo o que você precisa parar desenvolver em cima de uma plataforma.  
